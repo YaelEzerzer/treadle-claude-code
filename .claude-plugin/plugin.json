@@ -1,0 +1,20 @@
+{
+  "name": "treadle",
+  "displayName": "Treadle",
+  "version": "0.1.0",
+  "description": "Put a thought, a decision or a to-do on your Treadle board without leaving Claude Code, and get plain answers on keeping track of several Claude Code projects. Treadle is a Mac app: a project board that keeps itself up to date.",
+  "author": {
+    "name": "18202729 Canada Inc.",
+    "email": "support@gettreadle.com",
+    "url": "https://gettreadle.com"
+  },
+  "homepage": "https://gettreadle.com",
+  "repository": "https://github.com/YaelEzerzer/treadle-claude-code",
+  "license": "MIT",
+  "keywords": ["treadle", "project-board", "multiple-projects", "progress", "capture", "macos"],
+  "icon": "./icon.svg",
+  "documentationUrl": "https://github.com/YaelEzerzer/treadle-claude-code#readme",
+  "supportUrl": "https://gettreadle.com/support",
+  "privacyPolicyUrl": "https://gettreadle.com/privacy",
+  "termsOfServiceUrl": "https://gettreadle.com/terms"
+}

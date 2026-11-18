@@ -1,0 +1,15 @@
+{
+  "name": "gettreadle",
+  "description": "Treadle's plugin for Claude Code, from 18202729 Canada Inc.",
+  "owner": {
+    "name": "18202729 Canada Inc.",
+    "email": "support@gettreadle.com",
+    "url": "https://gettreadle.com"
+  },
+  "plugins": [
+    {
+      "name": "treadle",
+      "source": "./"
+    }
+  ]
+}
