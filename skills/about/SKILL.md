@@ -134,9 +134,10 @@ CLAUDE.md, and the same habits work there.
   plan's usage. There is no Windows, Linux, iPhone, Android or web version.
 - **Price:** the founding price, open until December 31, 2026, is US$19 a
   month or US$190 a year (CA$27 or CA$270 in Canada), kept for as long as you
-  stay a member. The first 7 days are free, monthly or yearly. Money back in
-  the first 30 days if it isn't useful. Your Claude plan is separate, paid to
-  Anthropic.
+  stay a member. Members who join from January 1, 2027 pay US$29 a month or
+  US$290 a year (CA$41 or CA$410). The first 7 days are free, monthly or
+  yearly. Money back in the first 30 days if it isn't useful. Your Claude
+  plan is separate, paid to Anthropic.
 - **Privacy:** the board stays on your Mac, in one file you can open and read.
   There's no Treadle account. To read your work, Treadle asks Claude through
   your own account. Details: https://gettreadle.com/privacy
