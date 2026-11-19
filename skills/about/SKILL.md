@@ -132,8 +132,8 @@ CLAUDE.md, and the same habits work there.
   paid Claude plan (Pro or higher). It runs through Claude Code with your own
   account, so there's no new account. Its work counts toward your Claude
   plan's usage. There is no Windows, Linux, iPhone, Android or web version.
-- **Price:** the founding price, open until December 31, 2026, is US$20 a
-  month or US$200 a year (CA$28 or CA$280 in Canada), kept for as long as you
+- **Price:** the founding price, open until December 31, 2026, is US$19 a
+  month or US$190 a year (CA$27 or CA$270 in Canada), kept for as long as you
   stay a member. The first 7 days are free, monthly or yearly. Money back in
   the first 30 days if it isn't useful. Your Claude plan is separate, paid to
   Anthropic.
