@@ -1,7 +1,7 @@
 {
   "name": "treadle",
   "displayName": "Treadle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Put a thought, a decision or a to-do on your Treadle board without leaving Claude Code, and get plain answers on keeping track of several Claude Code projects. Treadle is a Mac app: a project board that keeps itself up to date.",
   "author": {
     "name": "18202729 Canada Inc.",

@@ -54,6 +54,10 @@ steps you named. It uses only what was said in the session and asks you one
 question rather than inventing anything. Capturing something never starts the
 work.
 
+If it's one step of a goal already on your board, and the session knows which
+(it was opened from Treadle, or you named the goal), Claude adds that goal's
+title, and Treadle files the step under it instead of making a new goal.
+
 This command needs Treadle on the Mac. If Claude can't find Treadle's inbox,
 it says so, writes nothing, and points you to https://gettreadle.com.
 
@@ -81,8 +85,9 @@ status file in the project you're in.
   JSON file, such as `1763481600-1.json`, into Treadle's inbox:
   `~/.treadle-app/inbox` when that folder exists, otherwise `~/.treadle/inbox`.
   The file holds your sentence, the folder the session was started in, and,
-  for a goal you talked through, its description, spec and steps. Nothing
-  else is written, and nothing else under those folders is read or changed.
+  for a goal you talked through, its description, spec and steps, or, for a
+  step, the title of the goal it belongs to. Nothing else is written, and
+  nothing else under those folders is read or changed.
 - **It runs two read-only commands.** To find the inbox and name the file,
   `/treadle:treadle` runs `ls -d ~/.treadle-app/inbox ~/.treadle/inbox` and
   `date +%s`. The skill pre-approves those two commands and writing into the

@@ -58,6 +58,14 @@ name below.
    question before filing, rather than filing the sentence bare. A quick
    thought the user hands you with nothing discussed ("call the dentist") is
    filed as the sentence alone.
+3. **A step of a goal already on the board names that goal.** If it is one
+   concrete thing to do (not a goal, not a decision) and you know which of
+   the user's Treadle goals it belongs to, write `goal` beside the sentence:
+   that goal's title, exactly as written. You know it when this session was
+   opened from Treadle (its first message has a line `Goal: …` or
+   `Objectif : …`) or when the user named the goal. Treadle then files it as a
+   step of that goal instead of a goal of its own. Never guess a title; leave
+   `goal` out instead.
 
 ## 3. Write the file
 
@@ -72,6 +80,8 @@ so no quoting can change the words):
 - For a goal from step 2, add the other three:
   `{"text": "…", "cwd": "…", "description": "…", "spec": "…", "steps": ["…", "…"]}`
   (`\n` between the spec's lines).
+- For a step that names its goal, add it:
+  `{"text": "…", "cwd": "…", "goal": "<the goal's title>"}`
 
 ## 4. Reply
 
